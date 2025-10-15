@@ -68,7 +68,7 @@ tunevault-music-library/
 ├── app.js              # Application logic
 ├── data.json           # Album data
 ├── __tests__
-      ├── app.test.js.  # Test suite
+      └── app.test.js.  # Test suite
 ├── package.json        # Dependencies and scripts
 └── README.md           # Documentation
 ```
