@@ -67,9 +67,9 @@ tunevault-music-library/
 ├── styles.css          # Styling
 ├── app.js              # Application logic
 ├── data.json           # Album data
-├── app.test.js         # Test suite
+├── __tests__
+      ├── app.test.js.  # Test suite
 ├── package.json        # Dependencies and scripts
-├── .eslintrc.json      # ESLint configuration
 └── README.md           # Documentation
 ```
 
